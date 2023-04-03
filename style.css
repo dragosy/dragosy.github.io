@@ -24,6 +24,9 @@ body {
   flex: 3;
   padding: 10px 10px 10px 0;
 }
+#main .page {
+  display: none;
+}
 
 h1 {
   color: blue;
